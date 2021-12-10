@@ -21,6 +21,7 @@ import org.json.JSONObject;
 
 public class CallRestWebService {
 // copie 1 
+	// copie 2 pour github
 	// copie 1 pour github
 	public static final String endpoint = "http://ip-api.com/json";
 	//public static final String endpoint = "https://httpbin.org/get";
